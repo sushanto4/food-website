@@ -1,6 +1,13 @@
+body {
+    background-color: rgb(250, 240, 240);
+}
+
+
 .section-1 {
+
     width: 800px;
     padding-left: 100px;
+
     align-items: center;
     display: flex;
 }
@@ -9,6 +16,7 @@ h1 {
     color: rgba(0, 0, 0, 0.699);
     font-weight: 700;
     font-size: 40px;
+
     margin: 0%;
 }
 
@@ -39,14 +47,18 @@ a {
 
 #hw-1 {
     padding-left: 58px;
+    padding-top: 160px;
 }
 
 .section-2 {
+    background-color: white;
 
     margin-top: 80px;
     display: flex;
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    margin-left: 25px;
+    margin-right: 25px;
 
 }
 
@@ -68,6 +80,7 @@ a {
 }
 
 .section-3 {
+
     display: flex;
     margin-left: 80px;
     border: none;
@@ -81,18 +94,21 @@ a {
     padding: 5px 5px 5px 5px;
 }
 
+
+
 .shadow {
     box-shadow: 5px 5px 5px 5px rgb(224, 216, 216);
     padding-left: 50px;
     padding-top: 20px;
     border-radius: 10px;
     height: 500px;
+    background-color: white;
 
 
 }
 
 footer {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .foot {
@@ -115,3 +131,29 @@ footer p {
     text-align: center;
 
 }
+
+.section-4 {
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 2px;
+    display: flex;
+    background-color: white;
+    border-color: gray;
+    border: 5px;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-left: 80px;
+}
+
+.div-4-1 {
+    padding-left: 150px;
+    padding-right: 200px;
+
+}
+
+.div-4-2 {
+    padding-right: 200px;
+}
+
+.div-4-3 {}
