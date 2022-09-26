@@ -1,0 +1,117 @@
+.section-1 {
+    width: 800px;
+    padding-left: 100px;
+    align-items: center;
+    display: flex;
+}
+
+h1 {
+    color: rgba(0, 0, 0, 0.699);
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0%;
+}
+
+p {
+    color: gray;
+    font-weight: 500;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+a {
+    color: gold;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(red, purple);
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.half-width {
+    width: 50%;
+    margin: 0%;
+}
+
+#hw-1 {
+    padding-left: 58px;
+}
+
+.section-2 {
+
+    margin-top: 80px;
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
+}
+
+#Abt-me {
+    padding-top: 100px;
+    padding-left: 250px;
+}
+
+#abt-me {
+    padding-top: 100px;
+    padding-right: 150px;
+}
+
+.recipie {
+    padding: 0px 150px 20px 150px;
+    color: rgba(0, 0, 0, 0.979);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.section-3 {
+    display: flex;
+    margin-left: 80px;
+    border: none;
+    margin-bottom: 50px;
+
+}
+
+.recipie2 {
+    color: black;
+    margin: 0%;
+    padding: 5px 5px 5px 5px;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px 5px rgb(224, 216, 216);
+    padding-left: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+    height: 500px;
+
+
+}
+
+footer {
+    margin-top: 150px;
+}
+
+.foot {
+    height: 150px;
+    padding-top: 30px;
+
+
+    background-image: linear-gradient(rgb(51, 28, 28), rgb(31, 5, 5));
+}
+
+#div-2 {
+
+    margin-left: 30px;
+    width: 300px;
+}
+
+footer p {
+    color: orangered;
+    margin: 0%;
+    text-align: center;
+
+}
